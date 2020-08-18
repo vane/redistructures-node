@@ -1,0 +1,28 @@
+{
+  "name": "redistructures-node",
+  "version": "0.0.1",
+  "description": "redis structures in node",
+  "main": "redistructures.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vane/redistructures-node.git"
+  },
+  "keywords": [
+    "redis",
+    "data-structures",
+    "node",
+    "javascript"
+  ],
+  "author": "Michal Szczepanski",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/vane/redistructures-node/issues"
+  },
+  "homepage": "https://github.com/vane/redistructures-node#readme",
+  "dependencies": {
+    "redis": "^3.0.2"
+  }
+}
